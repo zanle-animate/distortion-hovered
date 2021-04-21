@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins";
+  background: black;
+  width: 100vw;
+  height: 100vh;
+}
+
+/* DISTORTION
+=========================== */
+.distortion {
+  width: 600px;
+  height: 600px;
+  cursor: none;
+}
+.wrapper {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
